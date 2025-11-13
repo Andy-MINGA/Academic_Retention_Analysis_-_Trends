@@ -10,7 +10,8 @@ The analysis combined Python and Excel to perform data cleaning, visualization, 
 
 📊 Dataset Description
 The dataset includes aggregated, simulated counts of students across the following categories:
-**Variable**	**Description**
+
+Variable Description
 GPA Range:	GPA bracket of students during Fall 2024
 Probation Fall 2024:	Number of students on probation during Fall 2024
 Re-Enrolled Spring 2025:	Students from Fall 2024 probation group who re-enrolled in Spring 2025
@@ -22,6 +23,7 @@ Reinstated Spring 2025 & Re-Enrolled Fall 2025:	Students reinstated in Spring 20
 
 
 🧮 Tools and Methods
+
 •	Python (Pandas): for data wrangling
 •	Microsoft Excel: for data structuring, validation, and chart formatting
 •	Visualization: Grouped bar charts comparing outcomes by GPA range and enrollment status/ Pivot Table
